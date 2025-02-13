@@ -1,0 +1,48 @@
+@media (-moz-bool-pref: "mod.hidden_action_buttons.bookmarks") {
+  #star-button-box {
+    visibility: hidden;
+    display: none;
+  }
+}
+
+@media (-moz-bool-pref: "mod.hidden_action_buttons.readermode") {
+    #reader-mode-button {
+        visibility: hidden;
+        display: none;
+    }
+}
+
+@media (-moz-bool-pref: "mod.hidden_action_buttons.picture_in_picture") {
+    #picture-in-picture-button {
+        visibility: hidden;
+        display: none;
+    }
+}
+
+@media (-moz-bool-pref: "mod.hidden_action_buttons.translations") {
+    #translations-button {
+        visibility: hidden;
+        display: none;
+    }
+}
+
+@media (-moz-bool-pref: "mod.hidden_action_buttons.shopping_sidebar") {
+    #shopping-sidebar-button {
+        visibility: hidden;
+        display: none;
+    }
+}
+
+@media (-moz-bool-pref: "mod.hidden_action_buttons.page_action") {
+    #pageActionButton {
+        visibility: hidden;
+        display: none;
+    }
+}
+
+@media (-moz-bool-pref: "mod.hidden_action_buttons.zen_split_views") {
+    #zen-split-views-box {
+        visibility: hidden;
+        display: none;
+    }
+}

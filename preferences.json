@@ -1,0 +1,37 @@
+[
+    {
+        "property": "mod.hidden_action_buttons.bookmarks",
+        "label": "Hide Bookmark Button",
+        "type": "checkbox"
+    },
+    {
+        "property": "mod.hidden_action_buttons.readermode",
+        "label": "Hide Reader Mode Button",
+        "type": "checkbox"
+    },
+    {
+        "property": "mod.hidden_action_buttons.picture_in_picture",
+        "label": "Hide Picture in Picture Button",
+        "type": "checkbox"
+    },
+    {
+        "property": "mod.hidden_action_buttons.translations",
+        "label": "Hide Translations Button",
+        "type": "checkbox"
+    },
+    {
+        "property": "mod.hidden_action_buttons.shopping_sidebar",
+        "label": "Hide Shopping Sidebar Button",
+        "type": "checkbox"
+    },
+    {
+        "property": "mod.hidden_action_buttons.page_action",
+        "label": "Hide Page Action Button",
+        "type": "checkbox"
+    },
+    {
+        "property": "mod.hidden_action_buttons.zen_split_views",
+        "label": "Hide Zen Split Views Button",
+        "type": "checkbox"
+    }
+]
